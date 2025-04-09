@@ -20,7 +20,6 @@ A modern AI chatbot powered by Google's Gemini API. This application provides a 
 - **Framer Motion** (Animations)  
 - **Google's Generative AI SDK**
 
-## Getting Started
 
 ### Prerequisites
 
@@ -32,7 +31,7 @@ A modern AI chatbot powered by Google's Gemini API. This application provides a 
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/faizzz11/Faizzz-AI-chatbottt.git
     cd faizz-ai-chatbot
     ```
 
@@ -66,11 +65,3 @@ A modern AI chatbot powered by Google's Gemini API. This application provides a 
 3. Use the voice input feature by clicking the microphone icon  
 4. Access your chat history from the sidebar  
 5. Create new chats with the "New Chat" button
-
-## License
-
-This project is licensed under the **MIT License** – see the LICENSE file for details.
-
----
-
-**Project:** `Faizzz-AI`
